@@ -26,7 +26,7 @@
 
     "tools.h": "Tools & platforms",
     "t.mcu": "MCUs & CPUs",
-    "t.mcu.d": "10+ vendors, 100+ models: STM32, MSP430, nRF52 and similar",
+    "t.mcu.d": "10+ vendors, 100+ models. MCU: STM32, MSP430, nRF52 and similar · CPU: i.MX, Qualcomm, Rockchip",
     "t.linux": "Embedded Linux",
     "t.linux.d": "Yocto, Buildroot, U-Boot, device tree, kernel drivers",
     "t.sw": "Embedded software",
