@@ -25,8 +25,8 @@
     "sk.lead.d": "Technical leadership & team management, product development from requirements to mass production, testing & validation, certification, technical customer coordination",
 
     "tools.h": "Tools & platforms",
-    "t.mcu": "Processors",
-    "t.mcu.d": "10+ vendors: STM32, MSP430, nRF52 and similar",
+    "t.mcu": "MCUs & CPUs",
+    "t.mcu.d": "10+ vendors, 100+ models: STM32, MSP430, nRF52 and similar",
     "t.linux": "Embedded Linux",
     "t.linux.d": "Yocto, Buildroot, U-Boot, device tree, kernel drivers",
     "t.sw": "Embedded software",
