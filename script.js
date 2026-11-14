@@ -12,13 +12,13 @@
     "f4": "<strong>2M+</strong> units produced",
 
     "about.h": "About",
-    "about.p": "With more than 20 years in electronics and embedded systems, I design hardware and software together — from component selection, schematics and PCB to firmware and embedded Linux, from prototype to mass production. As a Tech Lead I set the technical direction for teams, working with domestic and international customers from automotive to the defense industry.",
+    "about.p": "For more than 20 years I have been developing projects across virtually every field of electronics, for national and international customers around the world, handling hardware and software together. I aim to keep growing by carrying what each project teaches me into the next.",
 
     "skills.h": "Expertise",
     "sk.hw": "Hardware",
     "sk.hw.d": "Schematic & multilayer PCB, analog / digital / mixed-signal, power electronics & BMS, RF & antenna integration, EMC-aware design",
-    "sk.sw": "Software",
-    "sk.sw.d": "Embedded C/C++ firmware, embedded Linux, driver development, hardware–software integration, device-to-cloud communication, low-power optimization",
+    "sk.sw": "Embedded software",
+    "sk.sw.d": "C/C++ firmware (bare-metal & RTOS), driver development, hardware–software integration, device-to-cloud communication, low-power optimization, embedded Linux",
     "sk.com": "Connectivity",
     "sk.com.d": "GSM / GPRS / LTE, GNSS, Bluetooth / BLE, Wi-Fi, Sub-GHz & long-range RF, CAN / LIN",
     "sk.lead": "Leadership",
@@ -26,16 +26,16 @@
 
     "tools.h": "Tools & platforms",
     "t.mcu": "Processors",
-    "t.mcu.d": "ARM Cortex-M & Cortex-A: STM32, NXP (LPC, Kinetis, i.MX), Microchip (PIC, AVR, SAM), TI (MSP430, CC), Nordic nRF, Silicon Labs, Renesas, ESP32",
+    "t.mcu.d": "10+ vendors: STM32, MSP430, nRF52 and similar",
     "t.linux": "Embedded Linux",
     "t.linux.d": "Yocto, Buildroot, U-Boot, device tree, kernel drivers",
-    "t.sw": "Software",
+    "t.sw": "Embedded software",
     "t.eda": "Design",
     "t.lab": "Test & measurement",
     "t.lab.d": "Oscilloscopes, spectrum & logic analyzers, power analysis, EMC pre-compliance",
 
     "proj.h": "Project domains",
-    "proj.note": "More than 1,000 projects, large and small. Most are under NDA, so customer and project names are not listed.",
+    "proj.note": "More than 1,000 projects, large and small, across virtually every field of electronics. As some of them are under NDA, customer and project names are not listed.",
     "p1": "Automotive",
     "p1.d": "Body, axle and power control units, eCall; projects for international premium manufacturers",
     "p2": "Defense industry",
@@ -77,7 +77,7 @@
 
   const META_EN = {
     title: "M. Fatih Güney — Tech Lead · Embedded Systems",
-    desc: "M. Fatih Güney — Embedded systems Tech Lead designing hardware and software together. 20+ years across automotive, defense, marine, aerospace, communications and IoT."
+    desc: "M. Fatih Güney — Embedded systems Tech Lead designing hardware and software together. 20+ years of projects across virtually every field of electronics, for national and international customers."
   };
 
   const STORAGE_KEY = "cv-lang";
